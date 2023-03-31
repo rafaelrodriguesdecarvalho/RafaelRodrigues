@@ -1,9 +1,10 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
-	{	
+	{
+	
 		cadeia x = " x 10 ^ "
 		inteiro expoente = 1
 		real base
