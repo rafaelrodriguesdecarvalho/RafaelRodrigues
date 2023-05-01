@@ -1,2 +1,2 @@
-# RafaelRodrigues
-My name is Rafael and I'm studyng portugol
+# estudy_of_Portugol
+My name is Rafael and I'm studyng Portugol
